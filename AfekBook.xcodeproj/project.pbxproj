@@ -35,6 +35,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		618200936E7EFBDE05B48F73 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		90A894BB1F9211F700C74B10 = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +67,7 @@
 				90A894CE1F9211F700C74B10 /* Assets.xcassets */,
 				90A894D01F9211F700C74B10 /* LaunchScreen.storyboard */,
 				90A894D31F9211F700C74B10 /* Info.plist */,
+				618200936E7EFBDE05B48F73 /* Images */,
 			);
 			path = AfekBook;
 			sourceTree = "<group>";
